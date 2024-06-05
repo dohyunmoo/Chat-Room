@@ -1,24 +1,7 @@
+/* * {
+
+} */
+
 body {
     font-family: sans-serif;
-}
-
-#chat-room {
-    border: 1px solid #ddd;
-    padding: 10px;
-    height: 400px;
-    overflow-y: scroll;
-}
-
-.message {
-    margin-bottom: 10px;
-}
-
-.message p {
-    padding: 10px;
-    border-radius: 5px;
-    display: inline-block;
-}
-
-.user-message p {
-    background-color: #ddd;
 }
