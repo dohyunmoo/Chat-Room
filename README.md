@@ -1,2 +1,2 @@
 # Chat-Room
-Online Chat Room with Golang
+Online Chat Room with Golang (work in progress)
